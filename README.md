@@ -8,7 +8,7 @@ Python 3.6.4
 
 This is a set of programs that emulate some of the functions of a search engine. I crawl a main website and sepcific number of websites linked in this main website and calculates the page ranks for each website.
 
-![Page Rank Diagram](http://marui.space/kxa4 'Page Rank Diagram')
+![Page Rank Diagram](https://github.com/Merry-Yundi/PageRank/blob/master/Pagerank.jpg 'Page Rank Diagram')
 
 
 
