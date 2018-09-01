@@ -12,7 +12,7 @@ This is a set of programs that emulate some of the functions of a search engine.
 
 
 
-Crawl a certain number of pages as you want from [an example web site](http://www.xuetangx.com/) and store data in SQLite databse by running `spider.py`.  
++ Crawl a certain number of pages as you want from [an example web site](http://www.xuetangx.com/) and store data in SQLite databse by running `spider.py`.  
 
 Dump the contents of the spider.sqlite file by running `spdump.py` if you want.   
 
