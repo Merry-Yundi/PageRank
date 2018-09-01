@@ -1,7 +1,7 @@
 # Simple Python Search Spider, Page Ranker, and Visualizer
 Environment:  
-MacOS
-Python 3.6.4 
+MacOS  
+Python 3.6.4   
 [SQLite browser](http://sqlitebrowser.org/)
 
 **Introduction**
